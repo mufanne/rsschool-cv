@@ -21,5 +21,5 @@ Languages:
 Kazakh- native 
 - Kazakh-native
 - Russian -native
-- English- B1(still learning)
+- English- B1-still learning
 
