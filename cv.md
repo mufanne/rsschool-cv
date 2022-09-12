@@ -1,4 +1,4 @@
-*CV of Kaliyeva Assel
+#CV of Kaliyeva Assel
 ## Front-End Developer
 *Mail: mufanne@mail.ru
 *Discord: mufanne
